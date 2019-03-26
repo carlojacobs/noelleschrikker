@@ -75,5 +75,6 @@ Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https:/
 # noelleschrikker
 
 # Noelle Schrikker
-## What is this?
 This is an online portfolio I built for mother.
+## What I used
+To build this website, I used basic `html`, `javascript` and `css`. I also used a free css library called [bootstrap](https://www.getbootstrap.com).
